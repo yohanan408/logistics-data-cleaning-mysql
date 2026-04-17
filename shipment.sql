@@ -1,0 +1,1 @@
+SELECT * FROM shipment.dirty_shipments;
